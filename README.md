@@ -42,5 +42,20 @@ The analysis is conducted using Python in a Jupyter Notebook, with results visua
 - README.md /                          # Project documentation
 
 ---
+## Snapshots
+
+![](https://github.com/GauravShivajiPatil/Website-Performance-Analysis-Project-/blob/b8930187ee3482be4eecb5429fcd396538b6b012/Snapshot/Screenshot%202025-08-13%20221147.png)
+
+![](https://github.com/GauravShivajiPatil/Website-Performance-Analysis-Project-/blob/b8930187ee3482be4eecb5429fcd396538b6b012/Snapshot/Screenshot%202025-08-13%20221213.png)
+
+![](https://github.com/GauravShivajiPatil/Website-Performance-Analysis-Project-/blob/b8930187ee3482be4eecb5429fcd396538b6b012/Snapshot/Screenshot%202025-08-13%20221235.png)
+
+![](https://github.com/GauravShivajiPatil/Website-Performance-Analysis-Project-/blob/b8930187ee3482be4eecb5429fcd396538b6b012/Snapshot/Screenshot%202025-08-13%20221311.png)
+
+![](https://github.com/GauravShivajiPatil/Website-Performance-Analysis-Project-/blob/b8930187ee3482be4eecb5429fcd396538b6b012/Snapshot/Screenshot%202025-08-13%20221339.png)
+
+![](https://github.com/GauravShivajiPatil/Website-Performance-Analysis-Project-/blob/b8930187ee3482be4eecb5429fcd396538b6b012/Snapshot/Screenshot%202025-08-13%20221402.png)
+
+![](https://github.com/GauravShivajiPatil/Website-Performance-Analysis-Project-/blob/b8930187ee3482be4eecb5429fcd396538b6b012/Snapshot/Screenshot%202025-08-13%20221542.png)
 
 ---

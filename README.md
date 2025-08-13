@@ -36,9 +36,11 @@ The analysis is conducted using Python in a Jupyter Notebook, with results visua
 ### website_performance_analysis/
 - data set /                           # Raw and cleaned datasets (exclude large/confidential files)
 - notepat  /                           # project instruction and qustions
-- website_performance_analysis.ipynb/  # Python scripts for data cleaning,
-                            
+- website_performance_analysis.ipynb/  # Python scripts for data cleaning,               
 - dashboards/                          # Dashboard app files (Streamlit, Dash, etc.)
 - reports/                             # Exported reports or visualizations (HTML, PDF, PNG)
-
 - README.md /                          # Project documentation
+
+---
+
+---
